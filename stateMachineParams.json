@@ -1,0 +1,30 @@
+[
+    {
+        "ParameterKey": "definitionString",
+        "ParameterValue": "${definitionString}"
+    },
+    {
+        "ParameterKey": "cloudWatchLogGroupArn",
+        "ParameterValue": "${cloudWatchLogGroupArn}"
+    },
+    {
+        "ParameterKey": "includeExecutionData",
+        "ParameterValue": "${includeExecutionData}"
+    },
+    {
+        "ParameterKey": "level",
+        "ParameterValue": "${level}"
+    },
+    {
+        "ParameterKey": "stepFunctionRoleArn",
+        "ParameterValue": "${stepFunctionRoleArn}"
+    },
+    {
+        "ParameterKey": "stateMachineName",
+        "ParameterValue": "${stateMachineName}"
+    },
+    {
+        "ParameterKey": "stateMachineType",
+        "ParameterValue": "${stateMachineType}"
+    }
+]
